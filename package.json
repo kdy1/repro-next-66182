@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@here/maps-api-for-javascript": "^1.54.1",
-    "next": "14.2.3",
+    "next": "canary",
     "react": "^18",
     "react-dom": "^18"
   },
